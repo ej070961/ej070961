@@ -69,7 +69,6 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ejdmswl)]([https://velog.io/@@ejdmswl](https://velog.io/@ejdmswl))
 
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
