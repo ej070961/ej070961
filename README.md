@@ -21,10 +21,7 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
           <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
@@ -32,7 +29,7 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white">
-          <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white">
+          <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">
           <img src="https://img.shields.io/badge/Recoil-0179f3?style=flat&logo=Recoil&logoColor=white">
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
@@ -69,7 +66,13 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ejdmswl)]([https://velog.io/@@ejdmswl](https://velog.io/@ejdmswl))
 
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ej070961&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ej070961"
+  width="600"
+  height="300"
+/>
+</a>
 
 
 
