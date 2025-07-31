@@ -56,7 +56,8 @@
 
 |기간 |내용|	
 |--|---|
-|2024\.12 ~ Present|플로우크리에이티브, Developer, FE|
+|2024\.7 ~ Present|네이버페이 주문&결제, Intern, FE|
+|2024\.12 ~ 2024\.06|플로우크리에이티브, Developer, FE|
 |2024\.09 ~ 2024\.12|구름톤 유니브, developer, FE|
 |2023\.09 ~ 2024\.08|TAVE 12th, developer, FE|
 |2023\.09 ~ 2024\.08|GDSC, developer, FE|
