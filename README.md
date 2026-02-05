@@ -3,12 +3,12 @@
 <p>
  	<a href=https://velog.io/@ejdmswl> <img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ejdmswl"> </a>
 	<a href=mailto:ej070961@gmail.com> <img src="https://img.shields.io/badge/ej070961@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ej070961@gmail.com"> </a>
-         <a href=https://hammerhead-cosmonaut-044.notion.site/58d070236fe44ad9b3b8446221f7814c?pvs=4> <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white&link=https://hammerhead-cosmonaut-044.notion.site/58d070236fe44ad9b3b8446221f7814c?pvs=4"> </a>
+         <a href=https://my.surfit.io/w/157957321> <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&link=https://my.surfit.io/w/157957321"> </a>
 
 </p>
 
 <p>
-  👋&nbsp; Hi there! <br/> I'm <b>frontend developer</b> who loves crafting user-friendly web experiences, primarily using React and TypeScript.🚀<br/>
+  👋&nbsp; Hi there! <br/> I'm <b>frontend developer</b> who loves crafting user-friendly web experiences, primarily using React, Next.js and TypeScript.🚀<br/>
   I’ve also worked with Flutter for app development, and I’m currently interested in exploring React Native. <br/> Additionally, Next.js has caught my attention for its server-side capabilities.<br/>
    I believe in gaining a solid understanding of the inner workings of JavaScript and other technologies to deliver truly engaging and intuitive user interfaces. ✨<br/>
 </p>
